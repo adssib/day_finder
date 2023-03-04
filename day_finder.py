@@ -1,5 +1,6 @@
 #I didnt use this website but refer to it https://artofmemory.com/blog/how-to-calculate-the-day-of-the-week/
-
+#this code was made in highschool back in 2018 
+#will try making a new optimized version sooon 
 #getting data from user 
 print("The program that calculates the day starting from dates!!!")
 day = eval(input("Give us the day: "))
